@@ -26,7 +26,7 @@
   5. In the home directory, clone the git repository, navigate to *streamsx.health/samples/ObservationVizNotebook* and run `ant` to build the demo for your platform (< 5 minutes):
       ```
       git clone <repo>
-      cd /home/streamsadmin/streamsx.health/samples/HealthcareJupyterDemo
+      cd /home/streamsadmin/streamsx.health/samples/ObservationVizNotebook
       ant
       ```
 
